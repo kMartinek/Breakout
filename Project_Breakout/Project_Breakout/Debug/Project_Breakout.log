@@ -1,0 +1,9 @@
+﻿  ball.cpp
+D:\Users\Lunjo\Documents\Development\Project_Breakout\Project_Breakout\ball.cpp(125,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Lunjo\Documents\Development\Project_Breakout\Project_Breakout\ball.cpp(130,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Users\Lunjo\Documents\Development\Project_Breakout\Project_Breakout\ball.cpp(135,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Lunjo\Documents\Development\Project_Breakout\Project_Breakout\ball.cpp(152,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Users\Lunjo\Documents\Development\Project_Breakout\Project_Breakout\ball.cpp(152,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\Lunjo\Documents\Development\Project_Breakout\Project_Breakout\ball.cpp(152,65): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Users\Lunjo\Documents\Development\Project_Breakout\Project_Breakout\ball.cpp(152,65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project_Breakout.vcxproj -> D:\Users\Lunjo\Documents\Development\Project_Breakout\Debug\Project_Breakout.exe
